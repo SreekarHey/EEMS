@@ -1,0 +1,9 @@
+@import './Components/TutorialHeader/_tutorial-header.scss';
+
+.bx--side-nav__items {
+  flex: 1 1;
+  padding: 3rem 0 0;
+  overflow: hidden;
+  overflow-y: hidden;
+  margin-left: 20px;
+}

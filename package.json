@@ -1,18 +1,33 @@
 {
-  "name": "my-assignment",
+  "name": "employeeportal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@carbon/icons-react": "10.22.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@types/history": "^2.0.45",
     "@types/jest": "^26.0.15",
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "@types/react-router": "^5.1.17",
+    "carbon-components": "10.25.0",
+    "carbon-components-react": "7.25.0",
+    "carbon-icons": "7.0.7",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
+    "sass": "1.29.0",
+    "styled-components": "^5.3.3",
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
@@ -39,5 +54,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/carbon-components-react": "^7.46.1",
+    "@types/carbon__icons-react": "^10.31.2",
+    "@types/react-router-dom": "^5.3.2",
+    "@types/styled-components": "^5.1.15"
   }
 }

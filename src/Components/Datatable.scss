@@ -1,0 +1,15 @@
+.bx--side-nav1 {
+  height: 40vh !important;
+  position: fixed !important;
+  top: 200px !important;
+  bottom: 100px !important;
+  left: 1400px !important;
+  z-index: 8000 !important;
+  width: 20rem !important;
+  max-width: 40rem !important;
+  overflow: hidden !important;
+  color: #525252 !important;
+  background-color: #ffffff !important;
+  transition: width 0.11s cubic-bezier(0.2, 0, 1, 0.9) !important;
+  will-change: width !important;
+}
